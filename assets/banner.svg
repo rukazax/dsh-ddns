@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-label="DSH DDNS">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b1220"/>
+      <stop offset="55%" stop-color="#15243f"/>
+      <stop offset="100%" stop-color="#1f3a6e"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#4b6bfb"/>
+      <stop offset="100%" stop-color="#8a2be2"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="320" fill="url(#bg)"/>
+  <circle cx="1120" cy="60" r="220" fill="#4b6bfb" opacity="0.12"/>
+  <circle cx="180" cy="300" r="200" fill="#8a2be2" opacity="0.10"/>
+  <rect x="0" y="0" width="1280" height="6" fill="url(#accent)"/>
+  <text x="72" y="128" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="52" font-weight="700" fill="#ffffff">DSH DDNS</text>
+  <text x="74" y="176" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="24" fill="#b9c6e6">Актуальный адрес для DeepSeek Harness: GitHub Actions + DuckDNS</text>
+  <g font-family="Segoe UI, Arial, sans-serif" font-size="17" fill="#dfe7fb">
+    <rect x="72" y="214" width="186" height="38" rx="19" fill="#ffffff" opacity="0.10"/>
+    <text x="94" y="239">GitHub Actions</text>
+    <rect x="274" y="214" width="115" height="38" rx="19" fill="#ffffff" opacity="0.10"/>
+    <text x="296" y="239">DuckDNS</text>
+    <rect x="405" y="214" width="146" height="38" rx="19" fill="#ffffff" opacity="0.10"/>
+    <text x="427" y="239">PowerShell</text>
+  </g>
+</svg>
